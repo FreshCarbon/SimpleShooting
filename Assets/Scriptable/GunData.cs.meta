@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c7857a43169bb3940a3add5023f4dfb5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shootClip: {instanceID: 0}
+  - reloadClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
